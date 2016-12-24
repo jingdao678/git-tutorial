@@ -4,3 +4,4 @@
   - fix-B
 -feature-D
 -DDDDDD
++add newLine
